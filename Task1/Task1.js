@@ -1,0 +1,10 @@
+var educationqualification=['SSC', 'HSC', 'BCS', 'BS', 'BCOM', 'MS', 'M.Phil', 'PhD']
+document.write('<h2> Qualifications:</h2>')
+document.write('1) '+educationqualification[0] +'<br>')
+document.write('2) '+educationqualification[1] +'<br>')
+document.write('3) '+educationqualification[2] +'<br>')
+document.write('4) '+educationqualification[3] +'<br>')
+document.write('5) '+educationqualification[4] +'<br>')
+document.write('6) '+educationqualification[5] +'<br>')
+document.write('7) '+educationqualification[6] +'<br>')
+document.write('8) '+educationqualification[7] +'<br>')
